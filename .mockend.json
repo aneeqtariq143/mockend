@@ -1,1 +1,8 @@
-{  "User": {},  "Post": {},  "Comment": {},  "Person": {},  "City": {}}
+{  "User": {[{
+      "firstName": "Aneeq",
+      "lastName": "Tariq",
+      "email": "aneeqtariq_143@yahoo.com",
+      "acceptedTerms": true,
+      "jobType": "designer",
+      "id": 1
+    }]},  "Post": {},  "Comment": {},  "Person": {},  "City": {}}
