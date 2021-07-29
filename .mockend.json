@@ -1,5 +1,5 @@
 {
-  "Courts": {
+  "Court": {
     "id": {
       "int": {
         "min": 0,
