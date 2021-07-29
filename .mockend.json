@@ -1,16 +1,40 @@
 {
-  "Post": {
-    "title": {
-      "string": {}
-    },
-    "views": {
+  "courts": {
+    "id": {
       "int": {
         "min": 0,
         "max": 99
       }
     },
-    "published": {
-      "boolean": {}
-    }
+    "country_id": {
+      "int": {
+        "min": 0,
+        "max": 99
+      }
+    },
+    "court_name": {
+      "string": {}
+    },
+    "created_by": {
+      "int": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "updated_by": {
+      "int": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "created_at": {
+      "min": "2020-09-01 19:36:47",
+      "max": "2020-09-01 19:36:47"
+    },
+    "updated_at": {
+      "min": "2020-09-01 19:36:47",
+      "max": "2020-09-01 19:36:47"
+    },
+    "deleted_at": null
   }
 }
